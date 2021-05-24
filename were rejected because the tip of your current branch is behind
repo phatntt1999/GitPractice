@@ -1,0 +1,24 @@
+[33mcommit c0ccd1b9b8b3b76d5473c979dcb57e52bd1b4678[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 84d2deb a93e60c
+Author: TIến Phát <tienphattt1999@gmail.com>
+Date:   Tue May 25 01:33:00 2021 +0700
+
+    Fix the conflict
+
+[33mcommit 84d2deb9cdaa3bd3e6c53766dc154bd36af1a71a[m
+Author: TIến Phát <tienphattt1999@gmail.com>
+Date:   Tue May 25 01:12:14 2021 +0700
+
+    This is third commit
+
+[33mcommit a93e60c5446a1a81f18720a4e09a69c67717a5d5[m[33m ([m[1;31mgitPractice/main[m[33m)[m
+Author: TIến Phát <tienphattt1999@gmail.com>
+Date:   Tue May 25 01:12:14 2021 +0700
+
+    This is third commit
+
+[33mcommit 4420ecc3cd1f63b0b15ac85df0b4064aed14625e[m
+Author: TIến Phát <tienphattt1999@gmail.com>
+Date:   Tue May 25 01:04:22 2021 +0700
+
+    Second commit main and This is using commit amend
